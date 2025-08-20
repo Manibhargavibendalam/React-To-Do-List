@@ -7,15 +7,6 @@ A small React app with a **Task list page** and a **Scrumboard page**.
 
 ---
 
-## Demo / Screenshots
-
-> Add your screenshots to `/screenshots` then reference them here.
-
-![Scrumboard](/screenshots/Screenshot-from-2025-08-20-15-37-11.png)
-![Task list](/screenshots/Screenshot-from-2025-08-20-15-37-01.png)
-
----
-
 ## Features
 
 - Add / edit / delete tasks
